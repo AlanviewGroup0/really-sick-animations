@@ -308,6 +308,8 @@ Each scene has enter + exit animations with overlapping timing.
 
 ## Resources
 
+- **Live Demo:** [sick-animations-demo.vercel.app](https://sick-animations-demo.vercel.app) — See these animations in action
+- **Demo Source:** [github.com/AlanviewGroup0/sick-animations-demo](https://github.com/AlanviewGroup0/sick-animations-demo)
 - **Inspiration:** [yui540.com/motions](https://yui540.com/motions)
 - **Source code:** [github.com/yui540/css-animations](https://github.com/yui540/css-animations)
 - **Clip-path generator:** [bennettfeely.com/clippy](https://bennettfeely.com/clippy)
